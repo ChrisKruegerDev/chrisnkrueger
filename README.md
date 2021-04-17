@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Chris Krueger 👨‍💻
 
-<hr>
-
 [![Visits](https://badges.pufler.dev/visits/chrisnkrueger/chrisnkrueger)](https://github.com/chrisnkrueger)
 [![Twitter](https://img.shields.io/badge/-chrisnkrueger-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/chrisnkrueger/)](https://twitter.com/chrisnkrueger)
 [![LinkedIn](https://img.shields.io/badge/-chrisnkrueger-blueviolet?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrisnkrueger/)](https://www.linkedin.com/in/chrisnkrueger)

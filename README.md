@@ -17,7 +17,7 @@ Founder of the Android app [Moviebase](https://github.com/MoviebaseApp) with foc
 
 <a href="https://github.com/chrisnkrueger">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisnkrueger&count_private=true&include_all_commits=true&show_icons=true&locale=en" /> 
-</a>
+</a> &nbsp; &nbsp;
 <a href="https://github.com/chrisnkrueger">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisnkrueger" />
 </a>

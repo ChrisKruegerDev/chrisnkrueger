@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Chris Krueger 👨‍💻
 
-<hr>
-
 [![Visits](https://badges.pufler.dev/visits/chrisnkrueger/chrisnkrueger)](https://github.com/chrisnkrueger)
 [![Twitter](https://img.shields.io/badge/-chrisnkrueger-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/chrisnkrueger/)](https://twitter.com/chrisnkrueger)
 [![LinkedIn](https://img.shields.io/badge/-chrisnkrueger-blueviolet?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrisnkrueger/)](https://www.linkedin.com/in/chrisnkrueger)
@@ -16,12 +14,13 @@ Founder of the Android app [Moviebase](https://github.com/MoviebaseApp) with foc
 <br>
 
 <a href="https://github.com/chrisnkrueger">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisnkrueger&count_private=true&include_all_commits=true&show_icons=true&locale=en" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisnkrueger&count_private=true&include_all_commits=true&show_icons=true&locale=en" /> 
 </a> &nbsp; &nbsp;
 <a href="https://github.com/chrisnkrueger">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisnkrueger" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisnkrueger" />
 </a>
 
+<br>
 <br>
 <br>
 

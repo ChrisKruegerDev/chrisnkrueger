@@ -1,18 +1,19 @@
-### Hi there 👋, I'm Chris Krueger
-Lead Mobile Developer on iOS and Android for @invia-flights. Founder of mobile app 
-@MoviebaseApp. I focused on well designed apps. 👨‍💻
+### Hi there 👋, I'm Chris Krueger 👨‍💻
+<hr>
+[![Visits](https://badges.pufler.dev/visits/chrisnkrueger/chrisnkrueger)](https://github.com/chrisnkrueger)
+[![Twitter](https://img.shields.io/badge/-chrisnkrueger-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/chrisnkrueger/)](https://twitter.com/chrisnkrueger)
+[![LinkedIn](https://img.shields.io/badge/-chrisnkrueger-blueviolet?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrisnkrueger/)](https://www.linkedin.com/in/chrisnkrueger)
+[![Medium](https://img.shields.io/badge/-chrisnkrueger-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@chrisnkrueger)](https://medium.com/@ chrisnkrueger)
+[![Stackoverflow](https://img.shields.io/badge/-chriskrueger-gray?style=flat&logo=stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/9302272/chriskrueger)](https://stackoverflow.com/users/9302272/chriskrueger)
 
-### Connect with me:
-
-<p align="left">
-<a href="https://twitter.com/chrisnkrueger" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40"/></a>
-<a href="https://linkedin.com/in/chrisnkrueger" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40"/></a>
-<a href="https://stackoverflow.com/users/9302272/chriskrueger" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="40"/></a>
-<a href="https://medium.com/chrisnkrueger" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="30" width="40"/></a>
-</p>
+An lead mobile developer on iOS and Android for [Invia Flights](https://github.com/invia-flights). 
+<br>
+Founder of the Android app [Moviebase](https://github.com/MoviebaseApp) with focus on well designed UI. 
 
 
-### Languages and Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisnkrueger&show_icons=true&locale=en" alt="githubstats" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisnkrueger" />
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisnkrueger&count_private=true&include_all_commits=true&show_icons=true&locale=en"/>

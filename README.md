@@ -6,9 +6,9 @@
 [![Medium](https://img.shields.io/badge/-chrisnkrueger-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@chrisnkrueger)](https://medium.com/@chrisnkrueger)
 [![Stackoverflow](https://img.shields.io/badge/-chriskrueger-gray?style=flat&logo=stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/9302272/chriskrueger)](https://stackoverflow.com/users/9302272/chriskrueger)
 
-An lead mobile developer on iOS and Android for [Invia Flights](https://github.com/invia-flights). 
+A lead mobile developer on iOS and Android for [Invia Flights](https://github.com/invia-flights). 
 <br>
-Founder of the Android app [Moviebase](https://github.com/MoviebaseApp) with focus on well designed UI. 
+Founder of the mobile app [Moviebase](https://github.com/MoviebaseApp) with a focus on well designed UI. 
 
 
 <br>

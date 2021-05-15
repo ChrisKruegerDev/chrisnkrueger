@@ -12,11 +12,13 @@ A lead mobile engineer on iOS and Android for [Invia Flights](https://github.com
 <a href="https://github.com/chrisnkrueger">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisnkrueger&count_private=true&include_all_commits=true&show_icons=true&locale=en" /> 
 </a> 
+
 <br>
 
 <a href="https://github.com/chrisnkrueger">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisnkrueger" />
 </a>
+
 <br>
 
 <img width="80" height="80" src="https://github.com/chrisnkrueger/chrisnkrueger/blob/main/icon-git.gif?raw=true"/>

@@ -5,7 +5,7 @@
 [![Medium](https://img.shields.io/badge/-chrisnkrueger-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@chrisnkrueger)](https://medium.com/@chrisnkrueger)
 [![Stackoverflow](https://img.shields.io/badge/-chriskrueger-gray?style=flat&logo=stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/9302272/chriskrueger)](https://stackoverflow.com/users/9302272/chriskrueger)
 
-A lead mobile engineer on iOS and Android for [Invia Flights](https://github.com/invia-flights) and the founder of the app [Moviebase](https://github.com/MoviebaseApp). I love to build experience that help users do what they couldn't do before. My greatest joy in mobile egineerig is to give users what I made and watch them use it.
+A lead mobile engineer on iOS and Android for [Invia Flights](https://github.com/invia-flights) and the founder of the Android app [Moviebase](https://github.com/MoviebaseApp). I love to build an experience that helps users do what they couldn't do before. My greatest joy in mobile engineering is to give users what I made and watch them use it.
 
 <br>
 <br>

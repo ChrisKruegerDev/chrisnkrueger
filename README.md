@@ -21,7 +21,3 @@ A senior Android developer for KAYAK and the founder of the Android app [Movieba
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisnkrueger" />
 </a>
 
-<br>
-<br>
-
-<img width="80" height="80" src="https://github.com/chrisnkrueger/chrisnkrueger/blob/main/icon-git.gif?raw=true"/>

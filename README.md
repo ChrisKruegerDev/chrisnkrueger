@@ -1,5 +1,3 @@
-# Hi there 👋, I'm Chris Krueger 👨‍💻
-
 [![Twitter](https://img.shields.io/badge/-chrisnkrueger-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/chrisnkrueger/)](https://twitter.com/chrisnkrueger)
 [![LinkedIn](https://img.shields.io/badge/-chrisnkrueger-blueviolet?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrisnkrueger/)](https://www.linkedin.com/in/chrisnkrueger)
 [![Medium](https://img.shields.io/badge/-chrisnkrueger-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@chrisnkrueger)](https://medium.com/@chrisnkrueger)

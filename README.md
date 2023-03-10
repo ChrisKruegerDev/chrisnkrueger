@@ -3,9 +3,9 @@
 [![Medium](https://img.shields.io/badge/-chrisnkrueger-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@chrisnkrueger)](https://medium.com/@chrisnkrueger)
 [![Stackoverflow](https://img.shields.io/badge/-chriskrueger-gray?style=flat&logo=stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/9302272/chriskrueger)](https://stackoverflow.com/users/9302272/chriskrueger)
 
-Senior Android Developer @ KAYAK and founder of the app [Moviebase](https://github.com/MoviebaseApp) for Android. I love to build an experience that helps users do what they couldn't do before.
+Senior Android Developer @ KAYAK and founder of [Moviebase](https://github.com/MoviebaseApp) for Android. <br>
+I love to build an experience that helps users do what they couldn't do before.
 
-<br>
 <a href="https://github.com/chrisnkrueger">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisnkrueger&count_private=true&include_all_commits=true&show_icons=true&locale=en" /> 
 </a> 
